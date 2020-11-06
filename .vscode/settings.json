@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.wxml": "html",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "type_traits": "c"
+  },
+  "go.inferGopath": false
+}
